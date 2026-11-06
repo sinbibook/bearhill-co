@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-11-06T11:19:55.130965753Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-11-06T11:20:35.628213329Z",
     "templateType": "trip_b",
     "propertyId": "014ea997-3fdc-4896-aa2a-9efd4879f8e0",
     "homepageId": "01a1aed5-facf-79ba-8cfc-c8f055e31950"
@@ -3322,19 +3322,19 @@
       },
       "theme": {
         "font": {
+          "koMain": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
           "koSub": {
             "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
             "key": "pretendard",
             "woff2": null,
             "family": "Pretendard"
           },
-          "enMain": null,
-          "koMain": {
-            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
-            "key": "pretendard",
-            "woff2": null,
-            "family": "Pretendard"
-          }
+          "enMain": null
         },
         "color": {
           "primary": "#FAFFFD",
