@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-11-06T11:18:19.206559513Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-11-06T11:19:55.130965753Z",
     "templateType": "trip_b",
     "propertyId": "014ea997-3fdc-4896-aa2a-9efd4879f8e0",
     "homepageId": "01a1aed5-facf-79ba-8cfc-c8f055e31950"
@@ -2624,7 +2624,7 @@
                 "description": ""
               },
               "closing": {
-                "title": "Memories of Bearhill Pension",
+                "title": "Memories",
                 "images": [
                   {
                     "id": "01a1aed6-6fb3-7661-a761-4178d01c6244",
